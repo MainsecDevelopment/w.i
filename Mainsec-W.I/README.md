@@ -27,7 +27,7 @@ Just supply a domain name to **w.i** and it will automatically do the following 
 ## Install
 
 ```bash
-git clone https://github.com/MainsecDevelopement/w.i
+git clone https://github.com/MainsecDevelopment/w.i.git
 cd mainsec-w.i
 pip install -r requirements.txt
 python wi.py
